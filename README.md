@@ -4,12 +4,12 @@
 
 ### LIVE LINK
 
-****
+https://master.d2d4i1z98f3x1r.amplifyapp.com/
 
 ## User Stories
 
 - User can enter the meal name into a search box, click the 'Search' button, and see a list of recipes matching the search terms.
-- User can click on 'View Recipe' button to display the source recipe. 
+- User can click on 'View Recipe' button to display the meal recipe.
 
 ## Useful links and resources
 

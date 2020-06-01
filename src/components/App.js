@@ -19,7 +19,6 @@ const App = () => {
     const response = await axios.get(`https://api.edamam.com/search?q=${query}&app_id=${APP_ID}&app_key=${APP_KEY}`);
 
     setRecipes(response.data.hits);
-    console.log(response.data.hits);
   };
 
   const onInputChange = (e) => {
